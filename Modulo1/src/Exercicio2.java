@@ -10,10 +10,5 @@ public class Exercicio2 {
         double area = raio * raio * 3.14159;
 
         System.out.println("O valor da area é: " + area);
-
-
-
-
-
     }
 }
