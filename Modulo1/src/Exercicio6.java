@@ -11,7 +11,7 @@ public class Exercicio6 {
         valor3 = scan.nextDouble();
 
         double areaT = valor1*valor3 / 2;
-        double areaC = valor3 * valor3 * 3.14159;
+        double areaC = valor3 * valor3 * (3.14159);
         double areaTra = (valor1 + valor2) * valor3 / 2;
         double areaQ = valor2 * valor2;
         double areaR = valor1 * valor2;
