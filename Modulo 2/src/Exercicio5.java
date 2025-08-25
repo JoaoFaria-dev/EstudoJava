@@ -19,7 +19,7 @@ public class Exercicio5 {
             System.out.println("Digite a quantidade que queres: ");
             int quantidade = scan.nextInt();
 
-            if(codigo == 1){
+            if(codigo ==1){
                 double valor = 4.00 * quantidade;
                 System.out.printf("Total: R$%.2f\n", valor );
             }
