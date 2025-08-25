@@ -1,4 +1,3 @@
 Exercícios em Java
 -----------------------------------
-
-Repositório usado para demonstrar minha evolução na linguagem
+Estes exercícios foram retirados do curso Java completo Programação Orientada a Objetos + Projetos, da plataforma Udemy, do professor Nélio Alves. Eles são ótimos para demostrar a minha evolução na linguagem Java.
