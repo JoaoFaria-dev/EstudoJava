@@ -19,7 +19,7 @@ public class Exercicio6 {
             System.out.printf("Imposto a ser pago = %.2f", imposto);
         }
         else{
-            float imposto = 1000 * 8/100 + (1500 * 18/100) + ((salario-4500) *28/100);
+            float imposto = 1000 * 8/100 + (1500 * 18/100) + ((salario-4500) * 28/100);
             System.out.printf("Imposto a ser pago = %.2f", imposto);
         }
     }
