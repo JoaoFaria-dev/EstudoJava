@@ -18,7 +18,7 @@ public class Exercicio5 {
         peca2 = scan.nextInt();
         num2 = scan.nextFloat();
 
-        Float valor = (peca1*num1) + (peca2*num2);
+        Float valor = (peca1 * num1) + (peca2 * num2);
         System.out.println("O valor a ser pago é: "+ valor);
     }
 }
