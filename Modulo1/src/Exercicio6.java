@@ -4,7 +4,7 @@ public class Exercicio6 {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
 
-        Double valor1, valor2, valor3;
+        Double valor1, valor2, valor3 ;
         System.out.println("Digite os valores para descobrir as áreas: ");
         valor1 = scan.nextDouble();
         valor2 = scan.nextDouble();
