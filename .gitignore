@@ -28,4 +28,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-src/teste.txt
+/src/teste.txt
