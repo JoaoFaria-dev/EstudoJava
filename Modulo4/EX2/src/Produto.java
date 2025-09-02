@@ -15,7 +15,7 @@ public class Produto {
     }
 
     public void retirarProduto(int quantidade){
-        this.quantidade -= quantidade;
+        this.quantidade -=   quantidade;
     }
 
     public String toString() {
