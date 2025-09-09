@@ -1,3 +1,5 @@
+package Programa;
+
 import Entidades.Departamento;
 import Entidades.HoraContrato;
 import Entidades.Trabalhador;
