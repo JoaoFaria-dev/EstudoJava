@@ -52,6 +52,6 @@ public class Porgrama {
         System.out.println("Nome: " + trab.getNome());
         System.out.println("Departamento: " + trab.getDepartamento().getNome());
         System.out.printf("Renda no mes e ano %s: %2.f", ano_mes, trab.Valor(ano, mes) );
-        scan.close();
+        scan.close ();
     }
 }
