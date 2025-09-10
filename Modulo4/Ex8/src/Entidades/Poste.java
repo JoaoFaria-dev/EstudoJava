@@ -86,9 +86,9 @@ public class Poste {
         }
         return sb.toString();
 
-        // String é imutável: cada modificação cria um novo objeto.
-        // StringBuilder é mutável: permite alterar o conteúdo sem criar novos objetos.
-        // Use StringBuilder para melhor desempenho em concatenações repetidas.
+        //String é imutável: cada modificação cria um novo objeto.
+        //StringBuilder é mutável: permite alterar o conteúdo sem criar novos objetos.
+        //Use StringBuilder para melhor desempenho em concatenações repetidas.
     }
 }
 
